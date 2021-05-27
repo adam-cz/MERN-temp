@@ -5,6 +5,7 @@ MERN template
 - for easy start with development MERN application
 - all necessary boilerplate already done
 - simple design layout for client part based on Ant design system
+- all the var names with \_ are just placeholders, change it based on what you need...
 
 CLIENT:
 
